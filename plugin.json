@@ -1,0 +1,25 @@
+{
+  "name": "png-to-ico",
+  "pluginName": "图片转ICO",
+  "description": "将PNG/JPEG等图片格式转换为ICO图标",
+  "author": "junjun",
+  "main": "dist/app/index.html",
+  "logo": "logo.png",
+  "version": "0.0.1",
+  "preload": "preload.js",
+  "features": [
+    {
+      "code": "convert",
+      "explain": "图片转ICO",
+      "cmds": [
+        "ico",
+        "图标转换",
+        "图片转ico"
+      ]
+    }
+  ],
+  "pluginSetting": {
+    "single": true,
+    "height": 0
+  }
+}

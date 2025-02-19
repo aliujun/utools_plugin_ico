@@ -1,0 +1,21 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="64" cy="64" r="60" fill="#4CAF50"/>
+  
+  <!-- 图片图标 -->
+  <rect x="34" y="34" width="40" height="40" rx="4" 
+        fill="white" opacity="0.9"/>
+  <circle cx="46" cy="46" r="4" fill="#4CAF50"/>
+  <path d="M34 62 L46 50 L58 62 L74 46" 
+        stroke="white" stroke-width="3" fill="none"/>
+  
+  <!-- 箭头 -->
+  <path d="M80 50 L95 64 L80 78" 
+        stroke="white" stroke-width="4" fill="none"/>
+  
+  <!-- ICO文字 -->
+  <text x="34" y="98" 
+        font-family="Arial Black, sans-serif" 
+        font-size="24" 
+        fill="white">ICO</text>
+</svg> 
